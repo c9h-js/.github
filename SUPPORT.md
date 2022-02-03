@@ -1,6 +1,6 @@
 # Support
 
-> We have a [code of conduct](https://github.com/c9h-js/.github/blob/main/CODE_OF_CONDUCT.md). By interacting with this repository, you agree to abide by its terms.
+> We have a [code of conduct](https://github.com/c9h-js/.github/blob/main/CODE_OF_CONDUCT.md). By interacting with any c9h-js repository, you agree to abide by its terms.
 
 Hi! 👋 We’re excited that you’re using **Cottonmouth** and we’d love to help.
 
